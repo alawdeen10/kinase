@@ -1,0 +1,56 @@
+.nav {
+  background-color: rgb(44, 39, 39);
+  height: 10vh;
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5px;
+}
+
+.logo p {
+  font-size: 30px;
+  font-weight: 600;
+  color: whitesmoke;
+}
+
+.logo span {
+  font-weight: 300;
+  color: #6ecc2a;
+}
+
+.logo img {
+  width: 60px;
+}
+
+.navbar a {
+  padding: 21px;
+  font-size: 20px;
+  text-decoration: none;
+  color: #6ecc2a;
+  font-weight: 700;
+}
+
+.navbar a:hover {
+  background-color: #6ecc2a;
+  color: whitesmoke;
+}
+
+.login a {
+  padding: 21px;
+  font-size: 20px;
+  text-decoration: none;
+  color: #6ecc2a;
+  font-weight: 700;
+}
+
+.login a:hover {
+  background-color: #6ecc2a;
+  color: whitesmoke;
+}
